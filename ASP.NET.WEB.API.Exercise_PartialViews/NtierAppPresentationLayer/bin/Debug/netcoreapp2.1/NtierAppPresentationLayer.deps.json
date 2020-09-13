@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "NtierAppPresentationLayer/1.0.0": {
+        "dependencies": {
+          "NTierApp.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "NtierAppPresentationLayer.dll": {}
+        }
+      },
+      "NTierApp.DataAccess/1.0.0": {
+        "runtime": {
+          "NTierApp.DataAccess.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NtierAppPresentationLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NTierApp.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

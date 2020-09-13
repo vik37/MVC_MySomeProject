@@ -1,0 +1,14 @@
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppServices\bin\Debug\netcoreapp2.1\NtierAppServices.deps.json
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppServices\bin\Debug\netcoreapp2.1\NtierAppServices.dll
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppServices\bin\Debug\netcoreapp2.1\NtierAppServices.pdb
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppServices\bin\Debug\netcoreapp2.1\NTierApp.DataAccess.dll
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppServices\bin\Debug\netcoreapp2.1\NtierAppPresentationLayer.dll
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppServices\bin\Debug\netcoreapp2.1\NTierApp.DataAccess.pdb
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppServices\bin\Debug\netcoreapp2.1\NtierAppPresentationLayer.pdb
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppServices\obj\Debug\netcoreapp2.1\NtierAppServices.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppServices\obj\Debug\netcoreapp2.1\NtierAppServices.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppServices\obj\Debug\netcoreapp2.1\NtierAppServices.AssemblyInfo.cs
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppServices\obj\Debug\netcoreapp2.1\NtierAppServices.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppServices\obj\Debug\netcoreapp2.1\NtierAppServices.csproj.CopyComplete
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppServices\obj\Debug\netcoreapp2.1\NtierAppServices.dll
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppServices\obj\Debug\netcoreapp2.1\NtierAppServices.pdb

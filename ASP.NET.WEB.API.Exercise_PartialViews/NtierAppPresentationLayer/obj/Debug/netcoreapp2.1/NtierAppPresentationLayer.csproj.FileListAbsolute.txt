@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppPresentationLayer\bin\Debug\netcoreapp2.1\NtierAppPresentationLayer.deps.json
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppPresentationLayer\bin\Debug\netcoreapp2.1\NtierAppPresentationLayer.dll
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppPresentationLayer\bin\Debug\netcoreapp2.1\NtierAppPresentationLayer.pdb
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppPresentationLayer\bin\Debug\netcoreapp2.1\NTierApp.DataAccess.dll
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppPresentationLayer\bin\Debug\netcoreapp2.1\NTierApp.DataAccess.pdb
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppPresentationLayer\obj\Debug\netcoreapp2.1\NtierAppPresentationLayer.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppPresentationLayer\obj\Debug\netcoreapp2.1\NtierAppPresentationLayer.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppPresentationLayer\obj\Debug\netcoreapp2.1\NtierAppPresentationLayer.AssemblyInfo.cs
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppPresentationLayer\obj\Debug\netcoreapp2.1\NtierAppPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppPresentationLayer\obj\Debug\netcoreapp2.1\NtierAppPresentationLayer.csproj.CopyComplete
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppPresentationLayer\obj\Debug\netcoreapp2.1\NtierAppPresentationLayer.dll
+C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\NtierAppPresentationLayer\obj\Debug\netcoreapp2.1\NtierAppPresentationLayer.pdb
