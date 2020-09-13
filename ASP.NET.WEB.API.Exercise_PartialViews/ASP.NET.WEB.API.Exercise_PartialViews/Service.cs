@@ -10,16 +10,17 @@ namespace ASP.NET.WEB.API.Exercise_PartialViews
     {
         public static int ReturnAges(DateTime dateOfBirth)
         {
-            int Age;
+            int age;
             DateTime today = DateTime.Today;
             if (today.Month < dateOfBirth.Month)
             {
-                return Age = today.Year - dateOfBirth.Year - 1;
+                age = today.Year - dateOfBirth.Year - 1;
             }
             else
             {
-                return Age = today.Year - dateOfBirth.Year;
+                age = today.Year - dateOfBirth.Year;
             }
+            return age;
         }
     }
 }

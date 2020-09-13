@@ -1,4 +1,0 @@
-C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
-C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
-C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
-C:\Users\vikto\source\repos\MVC\Exercise\ASP.NET.WEB.API.Exercise_PartialViews\Service\obj\Debug\netcoreapp3.1\Service.csproj.CoreCompileInputs.cache
