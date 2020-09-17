@@ -1,0 +1,14 @@
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\NTierApp.Services\obj\Debug\netcoreapp2.1\NTierApp.Services.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\NTierApp.Services\obj\Debug\netcoreapp2.1\NTierApp.Services.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\NTierApp.Services\obj\Debug\netcoreapp2.1\NTierApp.Services.AssemblyInfo.cs
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\NTierApp.Services\obj\Debug\netcoreapp2.1\NTierApp.Services.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\NTierApp.Services\bin\Debug\netcoreapp2.1\NTierApp.Services.deps.json
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\NTierApp.Services\bin\Debug\netcoreapp2.1\NTierApp.Services.dll
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\NTierApp.Services\bin\Debug\netcoreapp2.1\NTierApp.Services.pdb
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\NTierApp.Services\bin\Debug\netcoreapp2.1\EntireApp.DataAcess.dll
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\NTierApp.Services\bin\Debug\netcoreapp2.1\NTIerApp.PresentationLayer.dll
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\NTierApp.Services\bin\Debug\netcoreapp2.1\EntireApp.DataAcess.pdb
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\NTierApp.Services\bin\Debug\netcoreapp2.1\NTIerApp.PresentationLayer.pdb
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\NTierApp.Services\obj\Debug\netcoreapp2.1\NTierApp.Services.csproj.CopyComplete
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\NTierApp.Services\obj\Debug\netcoreapp2.1\NTierApp.Services.dll
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\NTierApp.Services\obj\Debug\netcoreapp2.1\NTierApp.Services.pdb

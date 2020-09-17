@@ -1,0 +1,9 @@
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\EntireApp.DataAcess\bin\Debug\netcoreapp2.1\EntireApp.DataAcess.deps.json
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\EntireApp.DataAcess\bin\Debug\netcoreapp2.1\EntireApp.DataAcess.dll
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\EntireApp.DataAcess\bin\Debug\netcoreapp2.1\EntireApp.DataAcess.pdb
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\EntireApp.DataAcess\obj\Debug\netcoreapp2.1\EntireApp.DataAcess.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\EntireApp.DataAcess\obj\Debug\netcoreapp2.1\EntireApp.DataAcess.AssemblyInfo.cs
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\EntireApp.DataAcess\obj\Debug\netcoreapp2.1\EntireApp.DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\EntireApp.DataAcess\obj\Debug\netcoreapp2.1\EntireApp.DataAcess.dll
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\EntireApp.DataAcess\obj\Debug\netcoreapp2.1\EntireApp.DataAcess.pdb
+C:\Users\vikto\source\repos\MVC\CLASS\NTireWeb\EntireApp.DataAcess\obj\Debug\netcoreapp2.1\EntireApp.DataAcess.csprojAssemblyReference.cache
